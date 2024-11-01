@@ -1,0 +1,79 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Wirtualna Polska Pixel\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-03 15:02+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.3.2\n"
+"X-Domain: wirtualna-polska-pixel"
+
+#: admin/admin.php:141
+msgid ""
+"A plugin has been detected that allows you to add products to the cart "
+"without reloading the page, we recommend enabling the above option"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A tool for measuring actions taken by users visiting the website and "
+"increasing the effectiveness of advertising on the WP Advertising Network."
+msgstr ""
+
+#: admin/admin.php:138
+msgid "Check if yes"
+msgstr ""
+
+#: admin/admin.php:81
+msgid ""
+"Error, Wirtualna Polska Pixel requires the Woocommerce plugin to be "
+"installed."
+msgstr ""
+
+#: admin/admin.php:33
+msgid "General"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wp.pl/"
+msgstr ""
+
+#: admin/admin.php:72
+msgid ""
+"In your store, does adding to the cart take place on the product page "
+"without reloading the page?"
+msgstr ""
+
+#: admin/admin.php:58
+msgid ""
+"In your store, on the product/category list page, does adding to the cart "
+"take place without reloading the page?"
+msgstr ""
+
+#: admin/admin.php:86 admin/admin.php:95 admin/admin.php:111
+msgid "Settings"
+msgstr ""
+
+#. Author of the plugin
+msgid "Wirtualna Polska Media S.A."
+msgstr ""
+
+#. Name of the plugin
+msgid "Wirtualna Polska Pixel"
+msgstr ""
+
+#: admin/admin.php:95 admin/admin.php:111
+msgid "WP Pixel"
+msgstr ""
+
+#: admin/admin.php:45
+msgid "WP Pixel ID"
+msgstr ""

@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wirtualna Polska Pixel\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-03 14:57+0000\n"
+"PO-Revision-Date: 2023-11-08 18:31+0000\n"
+"Last-Translator: \n"
+"Language-Team: Polski\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10 >= 2 && n%10<=4 "
+"&&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.3.2\n"
+"X-Domain: wirtualna-polska-pixel\n"
+
+#: admin/admin.php:148
+msgid ""
+"A plugin has been detected that allows you to add products to the cart "
+"without reloading the page, we recommend enabling the above option"
+msgstr ""
+"Wykryto wtyczkę umożliwiającą dodawanie produktów do koszyka bez "
+"przeładowania strony, polecamy włączyć powyższą opcję"
+
+#. Description of the plugin
+msgid ""
+"A tool for measuring actions taken by users visiting the website and "
+"increasing the effectiveness of advertising on the WP Advertising Network."
+msgstr ""
+"Narzędzie do pomiaru działań podejmowanych przez użytkowników odwiedzających "
+"witrynę i zwiększania skuteczności reklam w Sieci Reklamowej WP."
+
+#: admin/admin.php:145
+msgid "Check if yes"
+msgstr "Zaznacz jeśli tak"
+
+#: admin/admin.php:88
+msgid ""
+"Error, Wirtualna Polska Pixel requires the Woocommerce plugin to be "
+"installed."
+msgstr ""
+"Błąd, Wirtualna Polska Pixel wymaga zainstalowanego pluginu Woocommerce."
+
+#. Author URI of the plugin
+msgid "https://wp.pl/"
+msgstr ""
+
+#: admin/admin.php:79
+msgid ""
+"In your store, does adding to the cart take place on the product page "
+"without reloading the page?"
+msgstr ""
+"Czy w Twoim sklepie na stronie produktu dodanie do koszyka odbywa się bez "
+"przeładowania strony?"
+
+#: admin/admin.php:65
+msgid ""
+"In your store, on the product/category list page, does adding to the cart "
+"take place without reloading the page?"
+msgstr ""
+"Czy w Twoim sklepie na stronie listy produktów/kategorii dodanie do koszyka "
+"odbywa się bez przeładowania strony?"
+
+#. Author of the plugin
+msgid "Wirtualna Polska Media S.A."
+msgstr ""
+
+#. Name of the plugin
+msgid "Wirtualna Polska Pixel"
+msgstr ""
+
+#: admin/admin.php:102 admin/admin.php:118
+msgid "WP Pixel"
+msgstr ""
+
+#: admin/admin.php:52
+msgid "WP Pixel ID"
+msgstr ""
